@@ -1,0 +1,9 @@
+h2 {
+  background-color: teal;
+  padding: 10px;
+}
+.fruit-card {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+}
